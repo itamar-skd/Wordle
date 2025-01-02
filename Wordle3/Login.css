@@ -1,0 +1,47 @@
+﻿.message {
+    margin: 20px auto;
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    color: #e63946;
+}
+
+#register {
+    color: #e9ecef;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+}
+
+#register input {
+    border-radius: 90px;
+    margin-bottom: 10px;
+    height: 20px;
+    padding-left: 10px;
+}
+
+#submit {
+    font-size: 16px;
+    height: 30px;
+    width: 100px;
+    background-color: #ffffff;
+    color: #343a40;
+    border: none;
+}
+
+.wrapper {
+    background-color: #343a40;
+    width: 800px;
+    border-radius: 90px;
+    padding: 50px;
+    margin: 20px auto;
+}
+
+.register-wrapper {
+    height: 100px;
+}
+
+.login-wrapper {
+    height: 100px;
+}

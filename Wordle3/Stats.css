@@ -1,0 +1,20 @@
+﻿p {
+    color: #343a40;
+    font-family: 'Lato', sans-serif;
+}
+
+#heading {
+    width: 300px;
+    margin: 20px auto;
+}
+
+#stats {
+    width: 300px;
+    margin: 50px auto;
+}
+
+#stats .row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}

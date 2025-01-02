@@ -1,0 +1,76 @@
+﻿body {
+}
+
+#wordle {
+    display: block;
+    width: 400px;
+    height: 500px;
+    background-color: #343a40;
+    border: 1px solid #343a40;
+    border-radius: 90px;
+    padding: 30px 10px;
+    margin: 50px auto;
+}
+
+#rowOne,
+#rowTwo,
+#rowThree,
+#rowFour,
+#rowFive {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.char {
+    font-size: 30px;
+    border: 1px solid #343a40;
+    border-radius: 20px;
+    background-color: #f8f9fa;
+    padding: 2px 3px;
+    margin: 5px 0;
+    width: 40px;
+    height: 50px;
+    text-align: center;
+}
+
+.green {
+    background-color: #60d394;
+}
+
+.yellow {
+    background-color: #ffd97d;
+}
+
+.gray {
+    background-color: #e9ecef;
+}
+
+#inputForm {
+    width: 300px;
+    margin: 40px auto;
+}
+
+#inputForm #input {
+    height: 30px;
+    width: 150px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    border: 1px solid #343a40;
+    border-radius: 20px;
+    padding: 3px 10px;
+    background-color: #f8f9fa;
+    margin-right: 20px;
+}
+
+#inputForm #submit {
+    height: 30px;
+    width: 100px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    border: 1px solid #343a40;
+    border-radius: 20px;
+    padding: 3px 5px;
+    background-color: #f8f9fa;
+}
