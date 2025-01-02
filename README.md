@@ -5,6 +5,10 @@ The project instructions were to code and deploy a website using HTML, CSS and C
 From there on out, we were given complete freedom.
 This project was graded 100%.
 
+## How to Run
+Clone this repository, and open the solution file in Visual Studio.
+Set the **login.aspx** file as the start page.
+
 ## A brief explanation on Wordle
 For my project, I decided to create my own version of the, at the time, popular game: Wordle.
 Wordle is a word game were a word is chosen at random everyday, and the player is tasked with finding what that word is.
