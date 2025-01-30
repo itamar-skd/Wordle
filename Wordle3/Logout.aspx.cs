@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Wordle3
+namespace Wordle
 {
     public partial class Logout : System.Web.UI.Page
     {

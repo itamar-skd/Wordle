@@ -80,7 +80,7 @@
     <Content Include="Stats.css" />
     <Content Include="Web.config" />
     <Content Include="Wordle.aspx" />
-    <Content Include="WordleStyle.css" />
+    <Content Include="Wordle.css" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Login.aspx.cs">

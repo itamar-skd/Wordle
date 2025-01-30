@@ -8,7 +8,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace Wordle3
+namespace Wordle
 {
     public partial class Register
     {

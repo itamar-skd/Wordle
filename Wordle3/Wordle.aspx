@@ -1,8 +1,8 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Index.Master" AutoEventWireup="true" CodeBehind="Wordle.aspx.cs" Inherits="Wordle3.WebForm1" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Index.Master" AutoEventWireup="true" CodeBehind="Wordle.aspx.cs" Inherits="Wordle.WebForm1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <link href="WordleStyle.css" rel="stylesheet" />
+    <link href="Wordle.css" rel="stylesheet" />
     <div id="wordle">
         <p id="rowOne">
             <% = rowOne %>
